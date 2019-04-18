@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
     background-color: grey;
-    color: red;
+    color: purple;
    }
    
    h2 {
@@ -29,3 +29,7 @@ h1 {
     border-style: solid;
     color: gray;
    }
+
+   table, th, td {
+    border: 1px solid black;
+  }
